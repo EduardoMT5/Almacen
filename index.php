@@ -25,6 +25,7 @@ $resultado = $comando->fetchAll(PDO::FETCH_ASSOC);
     <link rel="stylesheet" href="public/css/estilos.css">
     <img src="" alt="">
     <script src="public/js/bootstrap.bundle.min.js"></script>
+    
 </head>
 
 <body class="py-3">
